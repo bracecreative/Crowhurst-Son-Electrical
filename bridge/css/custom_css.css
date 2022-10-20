@@ -1,0 +1,34 @@
+
+
+.header_fixed_right_area {
+padding-top: 30px; }
+
+.footer_top h5 {
+    color: #436BCE;}
+.footer_top {
+    padding: 30px 0 52px;
+}
+
+.footer_top, .footer_top p, .footer_top span, .footer_top li, .footer_top .textwidget, .footer_top .widget_recent_entries>ul>li>span {
+    color: #808080;
+    text-align: center !important;
+}
+
+.gform_wrapper .ginput_complex .ginput_left input:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=image]):not([type=file]), .gform_wrapper .ginput_complex .ginput_right input:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=image]):not([type=file]), .gform_wrapper .ginput_complex .ginput_right select, .gform_wrapper .ginput_complex input:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=image]):not([type=file]), .gform_wrapper .ginput_complex select {
+    width: 100%;
+    color: black;
+}
+
+.gform_wrapper textarea.medium {
+    height: 120px;
+    width: 100%;
+    color: black;
+}
+
+.gform_wrapper input:not([type=radio]):not([type=checkbox]):not([type=submit]):not([type=button]):not([type=image]):not([type=file]) {
+    font-size: inherit;
+    font-family: inherit;
+    padding: 5px 4px;
+    letter-spacing: normal;
+    color: black;
+}
